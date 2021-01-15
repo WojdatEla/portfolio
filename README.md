@@ -38,7 +38,9 @@ Nazywam się Ela Wojdat. Ukończyłam studnia w Szkole Głównej Gospodarstwa Wi
  * Adam Roman, Karolina Zmitrowicz "Testowanie oprogramowania w praktyce"
  * Radosław Smilgin "Praktyka testowania"
 
-# Blogi
+# Strony tematyczne
+ * [testerzy.pl](https://testerzy.pl/)
+ * [testuj.pl](https://testerzy.pl/)
 
 # Moje przypadki testowe 
 
