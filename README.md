@@ -60,7 +60,7 @@ Nazywam się Ela Wojdat. Ukończyłam studnia w Szkole Głównej Gospodarstwa Wi
   * MobilnaARiMR - aplikacja mobilna dla beneficjetnów [MobilnaARiMR.pl](https://www.arimr.gov.pl/mobilna-arimr.html)
     * udział w testach po każdym sprincie 
   * AUREA - aplikacja do obsługi wniosków COVID 
-    * odpoiwedzialność za testy testy naliczeń, generowania dokumetnów - finansowo księgowych, windykację
+    * udział w testach po każdym sprincie oraz odpowiedzialność za testy testy naliczeń, generowania dokumetnów - finansowo księgowych, windykację
     * obsługa ww. zakresów po wdrożeniu na produkjcę w tym obsługa błędów produkcyjnych, pisanie instrukcji na użytkowników, pomoc podrzędnym jednostką w niestandardowych obejściach systemu
     
  
