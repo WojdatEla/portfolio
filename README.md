@@ -2,7 +2,7 @@
 Testerskie portfolio
 
 # O mnie 
-Nazywam się Elżbieta Wojdat. Ukończyłam studnia w Szkole Głównej Gospodarstwa Wiejskiego na kierunku Rolnictwo zdobywając tytuł magistra inżyniera Rolnictwa ze specjalizacją Bioinżynieria rolnicza. Po zakończeniu studiów rozpoczełąm pracę w Agencji Restrukturyzacji i Modrnizacji Rolictwa, która pokazała mi cały proces biznesowy tworzenia oprogramowania, umożliwiła udział w testach akceptacyjnych/odbiorowych do systemów agencyjnych oraz udział w projektach tworoznych metodą SCRUM.  Dzięki temu zafascynował mnie świat testowania i skłonił do poszerzania wiedzy w zakresie testowania oraz ukończenia kursu Testowania oprogramowania w Software Development Academy co w efekcie zakończyło się zdobyciem certyfikatu ISTQB. 
+Nazywam się Elżbieta Wojdat. Ukończyłam studnia w Szkole Głównej Gospodarstwa Wiejskiego na kierunku Rolnictwo zdobywając tytuł magistra inżyniera Rolnictwa ze specjalizacją Bioinżynieria rolnicza. Po zakończeniu studiów rozpoczełąm pracę w Agencji Restrukturyzacji i Modrnizacji Rolictwa, która pokazała mi cały proces biznesowy tworzenia oprogramowania, umożliwiła udział w testach akceptacyjnych/odbiorowych do systemów agencyjnych oraz udział w projektach tworzonych metodą SCRUM oraz Waterfall.  Dzięki temu zafascynował mnie świat testowania i skłonił do poszerzania wiedzy w zakresie testowania oraz ukończenia kursu Testowania oprogramowania w Software Development Academy co w efekcie zakończyło się zdobyciem certyfikatu ISTQB. 
 
 # Narzędzia 
  * Jira
