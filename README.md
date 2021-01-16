@@ -2,7 +2,7 @@
 Testerskie portfolio
 
 # O mnie 
-Nazywam się Ela Wojdat. Ukończyłam studnia w Szkole Głównej Gospodarstwa Wiejskiego na kierunku Rolnictwo zdobywając tytuł magistra inżyniera Rolnictwa. Po zakończeniu studiów rozpoczełąm pracę w Agencji Restrukturyzacji i Modrnizacji Rolictwa, która pokazała mi cały proces biznesowy tworzenia oprogramowania oraz umożliwiła udział w testach akceptacyjnych zmian do systemów Agencyjnych. Dzięki temu zafascynował mnie świat testowania i skłonił do poszerzania wiedzy w zakresie testowania oraz ukończenia kursu Testowania oprogramowania w Software Development Academy.
+Nazywam się Elżbieta Wojdat. Ukończyłam studnia w Szkole Głównej Gospodarstwa Wiejskiego na kierunku Rolnictwo zdobywając tytuł magistra inżyniera Rolnictwa ze specjalizacją Bioinżynieria rolnicza. Po zakończeniu studiów rozpoczełąm pracę w Agencji Restrukturyzacji i Modrnizacji Rolictwa, która pokazała mi cały proces biznesowy tworzenia oprogramowania, umożliwiła udział w testach akceptacyjnych/odbiorowych do systemów agencyjnych oraz udział w projektach tworoznych metodą SCRUM.  Dzięki temu zafascynował mnie świat testowania i skłonił do poszerzania wiedzy w zakresie testowania oraz ukończenia kursu Testowania oprogramowania w Software Development Academy co w efekcie zakończyło się zdobyciem certyfikatu ISTQB. 
 
 # Narzędzia 
  * Jira
@@ -16,15 +16,14 @@ Nazywam się Ela Wojdat. Ukończyłam studnia w Szkole Głównej Gospodarstwa Wi
 # Umiejętności 
  * Raporotwanie błędów
  * Testowanie manualne
-   * testy funkcjonalne, testy regresji, retesty, testy ekslopracyjne, testy oparte na doświadczeniu, testy w opracju o przypadki testowe oraz User Story.
+   * testy funkcjonalne, testy regresji, retesty, testy ekslopracyjne, testy oparte na doświadczeniu, testy w oparciu o przypadki testowe, testy statyczne 
  * Tworzenie przypadków tesotwych 
- * Tworzenie raportów z testów
  * SCRUM
  * Waterfall
  * Umiejętnośc korzystania z dokumentacji analitycznej
  * Czytanie diagramów UML
  * Podstawowa znajomość SQL 
- * Podstawowa znajomość portokołu HTTP 
+ * Podstawowa znajomość protokołu HTTP 
 
 # Certyfikaty 
  * ISTQB - Foundation Level. Identyfikator poświadczenia:13456/FLCT/2019
@@ -32,7 +31,7 @@ Nazywam się Ela Wojdat. Ukończyłam studnia w Szkole Głównej Gospodarstwa Wi
 # Kursy 
  * Tester Oprogramowania w Software Development Academy
  * Postman – testowanie REST API na platformie szkoleniowej Udemy 
- * SQL - SoloLearn
+ * SQL w aplikacji SoloLearn
  * SQL dla początkujących - PostgreSQL na platformie szkoleniowej Udemy
 
 # Książki
@@ -45,22 +44,21 @@ Nazywam się Ela Wojdat. Ukończyłam studnia w Szkole Głównej Gospodarstwa Wi
  * [testerzy.pl](https://testerzy.pl/)
  * [testuj.pl](https://testerzy.pl/)
 
-# Moje przypadki testowe 
-
-# Mój raport z testów 
+# Moje przykładowe plany testów 
+ *  [Plan testów - My store](https://docs.google.com/document/d/1bW4nHaf_TNGJSDWSIv845BW4oyb1w8rXTIRnCBa59fQ/edit?usp=sharing)
 
 # Projekty
  * Waterfall
   * eWniosekplus  - aplikacja do składania wniosków przez internet [eWniosekPlus.pl](https://sso.arimr.gov.pl/auth/realms/ewniosekplus/protocol/openid-connect/auth?client_id=ewniosekplus&redirect_uri=https%3A%2F%2Fewniosek.arimr.gov.pl%2F&state=f59c0bd8-6d36-4aa4-87db-3cfef7373d17&nonce=c96e226e-6b84-4ea4-880d-863cf3937dca&response_mode=fragment&response_type=code&scope=openid)
-    * udział w testach akceptacyjnych/odbiorowych w zakresie wypełniania wniosków, sprawdzania rozwiązań GIS, 
+    * udział w testach akceptacyjnych/odbiorowych w zakresie wypełniania wniosków, sprawdzania rozwiązań GIS
   * ZSZiK/IACSplus - aplikacja do zintegrowanego zarządzania i kontroli w rolnictwie
-    * odpowiedzialność za testy akceptacyjne/ odbiorowe naliczeń, generowania dokumetnów - finansowo księgowych, windykację oraz testy obsługi wniosków transferowych 
-    * obsługa ww. zakresów po wdrożeniu na produkjcę w tym obsługa błędów, pisanie instrukcji na użytkowników, pomoc podrzędnym jednostką w niestandardowych obejściach systemu
+    * odpowiedzialność za testy akceptacyjne/ odbiorowe naliczeń płatności, generowania dokumetnów - finansowo księgowych, windykację oraz testy obsługi wniosków transferowych 
+    * obsługa ww. zakresów po wdrożeniu na produkjcę w tym obsługa błędów pordukcyjnych, pisanie instrukcji na użytkowników, pomoc podrzędnym jednostką w niestandardowych obejściach systemu
  * SCRUM 
   * MobilnaARiMR - aplikacja mobilna dla beneficjetnów [MobilnaARiMR.pl](https://www.arimr.gov.pl/mobilna-arimr.html)
     * udział w testach po każdym sprincie 
   * AUREA - aplikacja do obsługi wniosków COVID 
-    * udział w testach po każdym sprincie oraz odpowiedzialność za testy testy naliczeń, generowania dokumetnów - finansowo księgowych, windykację
+    * udział w testach po każdym sprincie oraz odpowiedzialność za testy naliczeń, generowania dokumetnów - finansowo księgowych, windykację
     * obsługa ww. zakresów po wdrożeniu na produkjcę w tym obsługa błędów produkcyjnych, pisanie instrukcji na użytkowników, pomoc podrzędnym jednostką w niestandardowych obejściach systemu
     
  
