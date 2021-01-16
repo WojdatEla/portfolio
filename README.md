@@ -16,7 +16,7 @@ Nazywam się Ela Wojdat. Ukończyłam studnia w Szkole Głównej Gospodarstwa Wi
 # Umiejętności 
  * Raporotwanie błędów
  * Testowanie manualne
-   * testy funkcjonlane, testy regresji, retesty, testy ekslopracyjne, testy oparte na doświadczeniu, testy w opracju o przypadki testowe oraz User Story.
+   * testy funkcjonalne, testy regresji, retesty, testy ekslopracyjne, testy oparte na doświadczeniu, testy w opracju o przypadki testowe oraz User Story.
  * Tworzenie przypadków tesotwych 
  * Tworzenie raportów z testów
  * SCRUM
