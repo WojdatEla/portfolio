@@ -45,7 +45,6 @@ Nazywam się Elżbieta Wojdat. Ukończyłam studnia w Szkole Głównej Gospodars
  * [testuj.pl](https://testerzy.pl/)
 
 # Moje przykładowe plany testów 
- *  [Plan testów - My store](https://docs.google.com/document/d/1bW4nHaf_TNGJSDWSIv845BW4oyb1w8rXTIRnCBa59fQ/edit?usp=sharing)
 
 # Projekty
  * Waterfall
