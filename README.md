@@ -44,8 +44,6 @@ Nazywam się Elżbieta Wojdat. Ukończyłam studnia w Szkole Głównej Gospodars
  * [testerzy.pl](https://testerzy.pl/)
  * [testuj.pl](https://testerzy.pl/)
 
-# Moje przykładowe plany testów 
-
 # Projekty
  * Waterfall
   * eWniosekplus  - aplikacja do składania wniosków przez internet [eWniosekPlus.pl](https://sso.arimr.gov.pl/auth/realms/ewniosekplus/protocol/openid-connect/auth?client_id=ewniosekplus&redirect_uri=https%3A%2F%2Fewniosek.arimr.gov.pl%2F&state=f59c0bd8-6d36-4aa4-87db-3cfef7373d17&nonce=c96e226e-6b84-4ea4-880d-863cf3937dca&response_mode=fragment&response_type=code&scope=openid)
