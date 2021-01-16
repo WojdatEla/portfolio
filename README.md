@@ -51,17 +51,17 @@ Nazywam się Ela Wojdat. Ukończyłam studnia w Szkole Głównej Gospodarstwa Wi
 
 # Projekty
  * Waterfall
-  ** eWniosekplus - aplikacja do składania wniosków przez internet 
-   ** udział w testach akceptacyjnych/odbiorowych w zakresie wypełniania wniosków, sprawdzania rozwiązań GIS, 
-  ** ZSZiK/IACSplus - aplikacja do zintegrowanego zarządzania i kontroli w rolnictwie
-    ** odpowiedzialność za testy akceptacyjne/ odbiorowe naliczeń, generowania dokumetnów - finansowo księgowych, windykację oraz testy obsługi wniosków transferowych 
-    ** obsługa ww. zakresów po wdrożeniu na produkjcę w tym obsługa błędów, pisanie instrukcji na użytkowników, pomoc podrzędnym jednostką w niestandardowych obejściach systemu
+  * eWniosekplus - aplikacja do składania wniosków przez internet 
+   * udział w testach akceptacyjnych/odbiorowych w zakresie wypełniania wniosków, sprawdzania rozwiązań GIS, 
+  * ZSZiK/IACSplus - aplikacja do zintegrowanego zarządzania i kontroli w rolnictwie
+    * odpowiedzialność za testy akceptacyjne/ odbiorowe naliczeń, generowania dokumetnów - finansowo księgowych, windykację oraz testy obsługi wniosków transferowych 
+    * obsługa ww. zakresów po wdrożeniu na produkjcę w tym obsługa błędów, pisanie instrukcji na użytkowników, pomoc podrzędnym jednostką w niestandardowych obejściach systemu
  * SCRUM 
-  ** MobilnaARiMR - aplikacja mobilna dla beneficjetnów
-    ** udział w testach po każdym sprincie 
-  ** AUREA - aplikacja do obsługi wniosków COVID 
-    ** odpoiwedzialność za testy testy naliczeń, generowania dokumetnów - finansowo księgowych, windykację
-    ** obsługa ww. zakresów po wdrożeniu na produkjcę w tym obsługa błędów produkcyjnych, pisanie instrukcji na użytkowników, pomoc podrzędnym jednostką w niestandardowych obejściach systemu
+  * MobilnaARiMR - aplikacja mobilna dla beneficjetnów
+    * udział w testach po każdym sprincie 
+  * AUREA - aplikacja do obsługi wniosków COVID 
+    * odpoiwedzialność za testy testy naliczeń, generowania dokumetnów - finansowo księgowych, windykację
+    * obsługa ww. zakresów po wdrożeniu na produkjcę w tym obsługa błędów produkcyjnych, pisanie instrukcji na użytkowników, pomoc podrzędnym jednostką w niestandardowych obejściach systemu
     
  
 
