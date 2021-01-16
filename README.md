@@ -51,8 +51,8 @@ Nazywam się Ela Wojdat. Ukończyłam studnia w Szkole Głównej Gospodarstwa Wi
 
 # Projekty
  * Waterfall
-  * eWniosekplus - aplikacja do składania wniosków przez internet 
-   * udział w testach akceptacyjnych/odbiorowych w zakresie wypełniania wniosków, sprawdzania rozwiązań GIS, 
+   * eWniosekplus - aplikacja do składania wniosków przez internet 
+    * udział w testach akceptacyjnych/odbiorowych w zakresie wypełniania wniosków, sprawdzania rozwiązań GIS, 
   * ZSZiK/IACSplus - aplikacja do zintegrowanego zarządzania i kontroli w rolnictwie
     * odpowiedzialność za testy akceptacyjne/ odbiorowe naliczeń, generowania dokumetnów - finansowo księgowych, windykację oraz testy obsługi wniosków transferowych 
     * obsługa ww. zakresów po wdrożeniu na produkjcę w tym obsługa błędów, pisanie instrukcji na użytkowników, pomoc podrzędnym jednostką w niestandardowych obejściach systemu
