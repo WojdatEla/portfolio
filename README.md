@@ -13,16 +13,18 @@ Nazywam się Ela Wojdat. Ukończyłam studnia w Szkole Głównej Gospodarstwa Wi
  * Postman
  * MS Office
 
-# Umjejętności 
+# Umiejętności 
  * Raporotwanie błędów
- * Podstawowa znajomość SQL
  * Testowanie manualne
+   ** testy funkcjonlane, testy regresji, retesty, testy ekslopracyjne, testy oparte na doświadczeniu, testy w opracju o przypadki testowe oraz User Story.
  * Tworzenie przypadków tesotwych 
  * Tworzenie raportów z testów
  * SCRUM
  * Waterfall
  * Umiejętnośc korzystania z dokumentacji analitycznej
  * Czytanie diagramów UML
+ * Podstawowa znajomość SQL 
+ * Podstawowa znajomość portokołu HTTP 
 
 # Certyfikaty 
  * ISTQB - Foundation Level. Identyfikator poświadczenia:13456/FLCT/2019
@@ -30,6 +32,7 @@ Nazywam się Ela Wojdat. Ukończyłam studnia w Szkole Głównej Gospodarstwa Wi
 # Kursy 
  * Tester Oprogramowania w Software Development Academy
  * Postman – testowanie REST API na platformie szkoleniowej Udemy 
+ * SQL - SoloLearn
  * SQL dla początkujących - PostgreSQL na platformie szkoleniowej Udemy
 
 # Książki
@@ -46,5 +49,19 @@ Nazywam się Ela Wojdat. Ukończyłam studnia w Szkole Głównej Gospodarstwa Wi
 
 # Mój raport z testów 
 
-# Projekty 
+# Projekty
+ * Waterfall
+  ** eWniosekplus - aplikacja do składania wniosków przez internet 
+   ** udział w testach akceptacyjnych/odbiorowych w zakresie wypełniania wniosków, sprawdzania rozwiązań GIS, 
+  ** ZSZiK/IACSplus - aplikacja do zintegrowanego zarządzania i kontroli w rolnictwie
+    ** odpowiedzialność za testy akceptacyjne/ odbiorowe naliczeń, generowania dokumetnów - finansowo księgowych, windykację oraz testy obsługi wniosków transferowych 
+    ** obsługa ww. zakresów po wdrożeniu na produkjcę w tym obsługa błędów, pisanie instrukcji na użytkowników, pomoc podrzędnym jednostką w niestandardowych obejściach systemu
+ * SCRUM 
+  ** MobilnaARiMR - aplikacja mobilna dla beneficjetnów
+    ** udział w testach po każdym sprincie 
+  ** AUREA - aplikacja do obsługi wniosków COVID 
+    ** odpoiwedzialność za testy testy naliczeń, generowania dokumetnów - finansowo księgowych, windykację
+    ** obsługa ww. zakresów po wdrożeniu na produkjcę w tym obsługa błędów produkcyjnych, pisanie instrukcji na użytkowników, pomoc podrzędnym jednostką w niestandardowych obejściach systemu
+    
+ 
 
