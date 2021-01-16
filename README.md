@@ -52,13 +52,13 @@ Nazywam się Elżbieta Wojdat. Ukończyłam studnia w Szkole Głównej Gospodars
   * eWniosekplus  - aplikacja do składania wniosków przez internet [eWniosekPlus.pl](https://sso.arimr.gov.pl/auth/realms/ewniosekplus/protocol/openid-connect/auth?client_id=ewniosekplus&redirect_uri=https%3A%2F%2Fewniosek.arimr.gov.pl%2F&state=f59c0bd8-6d36-4aa4-87db-3cfef7373d17&nonce=c96e226e-6b84-4ea4-880d-863cf3937dca&response_mode=fragment&response_type=code&scope=openid)
     * udział w testach akceptacyjnych/odbiorowych w zakresie wypełniania wniosków, sprawdzania rozwiązań GIS
   * ZSZiK/IACSplus - aplikacja do zintegrowanego zarządzania i kontroli w rolnictwie
-    * odpowiedzialność za testy akceptacyjne/ odbiorowe naliczeń płatności, generowania dokumetnów - finansowo księgowych, windykację oraz testy obsługi wniosków transferowych 
+    * odpowiedzialność za testy akceptacyjne/ odbiorowe naliczeń płatności, generowania dokumetnów - finansowo księgowych, decyzji administracyjnych, windykację oraz testy obsługi wniosków transferowych 
     * obsługa ww. zakresów po wdrożeniu na produkjcę w tym obsługa błędów pordukcyjnych, pisanie instrukcji na użytkowników, pomoc podrzędnym jednostką w niestandardowych obejściach systemu
  * SCRUM 
   * MobilnaARiMR - aplikacja mobilna dla beneficjetnów [MobilnaARiMR.pl](https://www.arimr.gov.pl/mobilna-arimr.html)
     * udział w testach po każdym sprincie 
   * AUREA - aplikacja do obsługi wniosków COVID 
-    * udział w testach po każdym sprincie oraz odpowiedzialność za testy naliczeń, generowania dokumetnów - finansowo księgowych, windykację
+    * udział w testach po każdym sprincie oraz odpowiedzialność za testy naliczeń, generowania dokumetnów - finansowo księgowych,decyzji administracyjnych windykację
     * obsługa ww. zakresów po wdrożeniu na produkjcę w tym obsługa błędów produkcyjnych, pisanie instrukcji na użytkowników, pomoc podrzędnym jednostką w niestandardowych obejściach systemu
     
  
