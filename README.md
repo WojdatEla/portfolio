@@ -51,13 +51,13 @@ Nazywam się Elżbieta Wojdat. Ukończyłam studnia w Szkole Głównej Gospodars
     * udział w testach akceptacyjnych/odbiorowych w zakresie wypełniania wniosków, sprawdzania rozwiązań GIS
   * ZSZiK/IACSplus - aplikacja do zintegrowanego zarządzania i kontroli w rolnictwie
     * odpowiedzialność za testy akceptacyjne/ odbiorowe naliczeń płatności, generowania dokumetnów - finansowo księgowych, decyzji administracyjnych, windykację oraz testy obsługi wniosków transferowych 
-    * obsługa ww. zakresów po wdrożeniu na produkjcę w tym obsługa błędów pordukcyjnych, pisanie instrukcji na użytkowników, pomoc podrzędnym jednostką w niestandardowych obejściach systemu
+    * obsługa ww. zakresów po wdrożeniu na produkjcę w tym obsługa błędów pordukcyjnych, pisanie instrukcji dla użytkowników, pomoc podrzędnym jednostką w niestandardowych obejściach systemu
  * SCRUM 
   * MobilnaARiMR - aplikacja mobilna dla beneficjetnów [MobilnaARiMR.pl](https://www.arimr.gov.pl/mobilna-arimr.html)
     * udział w testach po każdym sprincie 
   * AUREA - aplikacja do obsługi wniosków COVID 
     * udział w testach po każdym sprincie oraz odpowiedzialność za testy naliczeń, generowania dokumetnów - finansowo księgowych,decyzji administracyjnych windykację
-    * obsługa ww. zakresów po wdrożeniu na produkjcę w tym obsługa błędów produkcyjnych, pisanie instrukcji na użytkowników, pomoc podrzędnym jednostką w niestandardowych obejściach systemu
+    * obsługa ww. zakresów po wdrożeniu na produkjcę w tym obsługa błędów produkcyjnych, pisanie instrukcji dla użytkowników, pomoc podrzędnym jednostką w niestandardowych obejściach systemu
     
  
 
