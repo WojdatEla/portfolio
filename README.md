@@ -55,9 +55,9 @@ Nazywam się Elżbieta Wojdat. Ukończyłam studnia w Szkole Głównej Gospodars
     * obsługa ww. zakresów po wdrożeniu na produkjcę w tym obsługa błędów pordukcyjnych, pisanie instrukcji dla użytkowników, pomoc podrzędnym jednostką w niestandardowych obejściach systemu
  * SCRUM 
   * MobilnaARiMR - aplikacja mobilna dla beneficjetnów [MobilnaARiMR.pl](https://www.arimr.gov.pl/mobilna-arimr.html)
-    * udział w testach po każdym sprincie 
+    * udział w testach 
   * AUREA - aplikacja do obsługi wniosków COVID 
-    * udział w testach po każdym sprincie oraz odpowiedzialność za testy naliczeń, generowania dokumetnów - finansowo księgowych,decyzji administracyjnych windykację
+    * udział w testach oraz odpowiedzialność za testy naliczeń, generowania dokumetnów - finansowo księgowych,decyzji administracyjnych windykację
     * obsługa ww. zakresów po wdrożeniu na produkjcę w tym obsługa błędów produkcyjnych, pisanie instrukcji dla użytkowników, pomoc podrzędnym jednostką w niestandardowych obejściach systemu
     
  
