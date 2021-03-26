@@ -40,6 +40,7 @@ Nazywam się Elżbieta Wojdat. Ukończyłam studnia w Szkole Głównej Gospodars
  * Adam Roman, Karolina Zmitrowicz "Testowanie oprogramowania w praktyce"
  * Radosław Smilgin "Praktyka testowania"
  * Thomas Nield "Pierwsze kroki z SQL"
+ * Karolina Zmitrowicz "Jakość projektów informatycznych. Rozwój i testowanie oprogramowania"
 
 # Strony tematyczne
  * [testerzy.pl](https://testerzy.pl/)
